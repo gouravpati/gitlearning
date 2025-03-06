@@ -1,0 +1,11 @@
+build:
+  version: "2.O"
+
+loans:
+  message: "Welcome to EasyBank loans related qa APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "John@eazyschool.com"
+  onCallSupport:
+    -(222)555-1234
+    -(222)523-1345
