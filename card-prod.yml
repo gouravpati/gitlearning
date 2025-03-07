@@ -2,7 +2,7 @@ build:
   version: "1.O"
 
 card:
-  message: "Welcome to EasyBank card related prod APIs"
+  message: "Welcome to EasyBank card related production APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "John@eazyschool.com"
