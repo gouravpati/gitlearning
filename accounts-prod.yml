@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EasyBank accounts related prod APIs"
   contactDetails:
     name: "John Doe - Developer"
-    email: "John@eazyschool.com"
+    email: "{cipher}336f5d1968b38d53a9b3e6c64e3c9c117d8ff8bc43446729ea97e447078faedcb543349428542a2b0ef86dc8dcd3897f"
   onCallSupport:
     -(111)555-1234
     -(111)523-1345
